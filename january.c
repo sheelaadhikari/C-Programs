@@ -9,7 +9,7 @@ void main()
     num = n;
     if (n < 0)
         printf("no factoril of negative number\n");
-    else
+    else;
     {
         while (n > 1)
         {
