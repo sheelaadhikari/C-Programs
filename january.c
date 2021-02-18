@@ -8,7 +8,7 @@ void main()
     scanf("%d", &n);
     num = n;
     if (n < 0)
-        printf("no factoril of negative number\n");
+        printf("no factorial of negative number\n");
     else;
     {
         while (n > 1)
@@ -16,6 +16,6 @@ void main()
             fact *= n;
             n--;
         }
-        printf("factoril of %d=%d\n", num, fact);
+        printf("factorial of %d=%d\n", num, fact);
     }
 }
