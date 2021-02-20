@@ -3,7 +3,7 @@
 #include <stdio.h>
 void main()
 {
-    int i, product = 0, a,b;
+    int i, product = 1, a,b;
     printf("enter a number: ");
     scanf("%d%d", &a, &b);
     for (i = 1; i <= 5; i++)
