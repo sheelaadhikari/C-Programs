@@ -28,5 +28,4 @@ void main(){
         }
         printf("\n");
     }
-}
 

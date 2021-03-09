@@ -1,6 +1,6 @@
 // wap  to find the greateat number among five.
 #include <stdio.h>
-int main()
+void main()
 {
     int i, a[5], max = 0;
     for (i = 0; i <= 5; i++)
@@ -12,5 +12,5 @@ int main()
             max = a[i];
     }
     printf("the maximum number is %d", a[i]);
-    return 0;
+   
 }
